@@ -1,0 +1,17 @@
+00:00
+Welcome to the introduction video of how to navigate to your unit sites in Deakin University's cloud learning environment, CloudDeakin. You can access your unit sites by navigating to Deakin Sync at sync.deakin.edu.au and entering your Deakin username and password. You can access all the current trimester units that you are enrolled in under the Current Units tab in Deakin Sync. Clicking on the name of the unit will take you to the unit site home page.
+
+00:40
+This is the unit site home page and you can return to this page from anywhere in the site, simply by clicking on the home link. Once you are in a site, you will see the mini-bar at the top of the page, which is always visible wherever you are in the online learning environment. From this mini-bar, you can switch between units, receive notifications and update your preferences. These navigation buttons are available to help you access important tools within your unit.
+
+01:15
+Content is the area where you will find all the learning resources posted by your Unit Chair, which typically includes unit guides, lecture notes, study guides, readings, etc. Discussions include forums and topics lists. Assessments provides links to Assignments, with assignment folders where you can submit your assignments and view assignment feedback. Grades, that display the grades you have achieved and Quizzes provided by your unit chair.
+
+01:47
+Tools provides links to Class Progress where you can monitor your progress in the unit. The Classlist tool, which allows you to view a list of students who are enrolled in your unit. Deakin Air, which is a personal space where you can upload and view videos and publish to the unit's media gallery if this is required in your unit. The Groups tool, where you can sign up to groups that have been set up for group work, projects and teams of various kinds if this is required in your unit, and Locker, which is a personal and group file storage area. ePortfolio is where you can collect, reflect on, and share evidence of your learning with others within and beyond Deakin. You decide what items you want to include in your ePortfolio, how you want to organise them, and who you want to share them with.
+
+02:49
+The Announcement widget on the Unit Home page displays updates and announcements from your Unit Chair each time you log in. The Help widgets allow easy access to important links that provide further assistance with library learning and IT matters. When you log in to your unit site, you will see if there is any new activity since the last time you were there under the Updates widget. For example, total unread discussion messages.
+
+03:21
+The Unit Chair and Unit Staff widget is where you can view contact details of the teaching staff. The Unit Calendar will inform you about any upcoming unit deadlines as well assignment due dates that are added by the Unit Chair. When you are finished accessing the site you can either access another of your unit sites through the select a Unit button in the top mini-bar, or simply log out by clicking on your name in the top right corner and selecting Log Out. Thanks for watching this video and good luck.
