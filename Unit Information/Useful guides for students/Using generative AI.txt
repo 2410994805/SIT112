@@ -1,0 +1,228 @@
+Using generative AI
+Homepage
+Types of generative AI
+Ethical and evaluative use
+How to use
+AI research and news
+How to use generative AI
+A prompt must be given to a generative AI tool to produce content in response.
+
+Generative AI tools work with masses of data. An algorithm then scrambles and reassembles that content in response to directive prompts you provide.
+
+Generative AI (such as ChatGPT or DALL · E 2) requires a prompt in the form of text. Other generative AI will have a series of prompts for users to select in order to generate content or will require a file to be uploaded to the AI tool.
+
+Developing effective text-based prompts
+With any prompt, a user should be clear and concise in what they want the AI to create. For generative AI that uses text-based prompts, it is useful to continually refine your wording. Start with an initial prompt and then continue to review the content produced by the AI and adapt your prompt to improve the output.
+
+Be specific - “Give me ten dot points on.....”, or “Make a visual map of literature review steps”, or “In 50 words or less explain.....” 
+
+Have a tone - “Explain to a grade 12 student......”, “Write politely......” or “Create a calm binaural soundscape for focused study” 
+
+Achievable goal - “Translate text to......” or “Write a press release......” or “Explain quantum mechanics.....” or “Generate a photo of cell structure that includes labels” 
+
+These tools work best when given these types of prompts and struggle to create meaningful content when given ambiguous and open-ended prompts. 
+
+Note
+To learn more about writing prompts, check out the module AI prompts.
+
+Exploring AI tools
+When you are exploring generative AI, you need to determine which tools match your purpose. Keep in mind that many AI tools require paid subscriptions to access and will have different terms and conditions on ownership of the content generated and how you can use it.
+
+Click on the plus (+) icons below to explore a range of generative AI tools:
+
+ChatGPT
+ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI. It uses Natural Language Processing (NLP) to answer questions, write content, summarise information, and more, in a conversational tone.
+
+ 
+
+Ways it can help with your study
+Copyediting and improving grammar, sentence construction and other language elements 
+Summarising information like your class or research notes   
+Generating practice or quiz questions for exam preparation 
+Translating text into different languages
+Providing stimulus or generating ideas that you extend and develop 
+To organise your study time
+ 
+
+Limitations
+Doesn’t reference/cite its sources 
+May generate false information (referred to as hallucinations) 
+Can be generic and lack true understanding of content area 
+Can misinterpret the question or prompt 
+
+Stable Diffusion
+Stable Diffusion is an AI art generator that enables users to create unique imagery from short text descriptions, also known as prompts.
+
+ 
+
+Ways it can help with your study
+Creating imagery for class presentations
+Turning text concepts into images
+Being a source of creative inspiration  
+ 
+
+Limitations
+Risk of the art breaching copyright by containing substantial parts from another artist
+Can misinterpret prompt
+Fine detail can be of low quality
+Iterating the same image, tweaking elements, isn’t easily done 
+
+DALL.E2
+DALL·E 2 is an AI system that enables users to create images and art from a text description in natural language.
+
+ 
+
+Ways it can help with your study
+Create imagery for class presentations
+Turning text concepts into imagery
+Being a source of creative inspiration
+ 
+
+Limitations
+Risk of the art breaching copyright by containing substantial parts from another artist
+Can misinterpret prompt
+Fine detail can be of low quality
+Iterating the same image, tweaking elements, isn't easily done
+
+AIVA
+AIVA is AI composing software that empowers creators to make royalty-free music.
+
+ 
+
+Ways it can help with your study
+Creating music based on a mood or genre for focused study
+Make background music to use for a presentation
+Making background music for videos, games, or podcasts
+Being a source of creative inspiration
+ 
+
+Limitations
+Risk of the music breaching copyright by containing substantial parts from another artist
+Lacking in originality 
+Difficult to edit the music it generates
+
+Explainpaper
+Explainpaper allows users to upload a paper, highlight confusing text, and get an explanation.
+
+ 
+
+Ways it can help with your study
+Understanding a complex text
+Explaining complex terminology or jargon
+Checking your comprehension on a difficult topic
+ 
+
+Limitations
+Currently cannot explain mathematical functions
+May generate false information (referred to as hallucinations)
+Can misinterpret the question or prompt
+
+Jasper.ai
+Jasper is a generative AI platform targeted to businesses that helps users create content such as social media posts, advertising, emails, articles and imagery.
+
+ 
+
+Ways it can help with your study
+Brainstorming new ideas
+Creating content quickly
+Templates that can be easily adapted
+ 
+
+Limitations
+Requires a paid subscription
+Technical or specialist content is often generic or incorrect
+Requires fact-checking to ensure accuracy of dates, context, and theories
+Can misinterpret the question or prompt
+
+Gen-1 Runway
+Gen-1 Runway uses images and text prompts to generate videos.
+
+ 
+
+Ways it can help with your study
+Creating videos
+Apply special effects to your video (such as converting a motion-capture image into animation)
+Being a source of creative inspiration
+ 
+
+Limitations
+Requires a Discord account
+Constraints of the Discord platform (generating multiple users' content simultaneously)
+Can misinterpret the question or prompt
+
+GitHub Copilot
+GitHub Copilot is an AI pair programmer that translates natural human language into programming code.
+
+ 
+
+Ways it can help with your study
+Turning concepts into code
+Rapid development time
+Identifying problems in existing code
+Some multi-language support
+ 
+
+Limitations
+Can weaken your learning of foundational coding
+Copyright issues
+Code suggestions can disrupt your own problem-solving
+Expensive paid full subscription
+Can misinterpret the question or prompt
+
+Elicit and Scite
+Elicit and Scite are based on language models that attempt to summarise and extract information from papers, to locate other papers they deem to be relevant to your paper and provide analysis for citations from a paper.
+
+ 
+
+Ways it can help with your research
+Compare and evaluate how you have interpreted a research paper
+Locate other research papers that might relate to your topic
+Provide additional research papers that relate to your topic
+ 
+
+Limitations
+May generate false information (referred to as hallucinations)
+Provide inaccurate analysis or evaluation of a research paper
+Can miss papers that would be relevant to your topic
+
+Raxter and Genei
+Raxter and Genei can extract keywords and generate summaries by paraphrasing sections from PDFs or webpages.
+
+ 
+
+Ways it can help with your research
+Quickly generate a summary of key sections
+Find crucial information faster
+Locate other research papers that might relate to your topic
+ 
+
+Limitations
+Provide inaccurate analysis or evaluation of a research paper
+Requires a paid subscription
+
+TOME
+Tome enables users to create content such as presentations, portfolios, guides, reports and more. You describe the topic in a prompt and Tome will source the information and imagery for you to adapt.
+
+ 
+
+Ways it can help with your study
+Creating content quickly
+Templates that can be easily adapted
+ 
+
+Limitations
+Free trial has creation constraints
+Requires fact-checking to ensure accuracy
+Doesn’t reference/cite its sources
+
+Key considerations
+There are heaps of AI tools out there. Each one has its own pros and cons.
+
+You may need to go searching and investigating to find an AI tool that meets your purpose.
+
+Signing up to most generative AI tools is free now. Be aware that users may need to pay to use these tools in the future.
+
+<< Previous: Ethical and evaluative use Next: AI research and news >>
+Last Updated: Apr 1, 2026 2:30 PM URL: https://deakin.libguides.com/generative-AI Print Page
+Login to LibApps
+Subjects: All guidesStudy guidesTeaching and learning support for academics
