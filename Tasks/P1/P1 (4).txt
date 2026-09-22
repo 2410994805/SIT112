@@ -1,0 +1,256 @@
+Deakin University
+Introduction To Data Science And Artificial Intelligence
+OnTrack Submission
+
+Task P1
+
+Submitted By:
+Jahan Garg
+s226100103
+2026/07/21 15:37
+
+Tutor:
+Fatemeh Ansarizadeh
+
+July 21, 2026
+
+Produced by OnTrack
+
+Task P1
+SIT112 - Assessment Guideline
+This task aims to introduce you to the assessment model of SIT112. Please read and sign the document and
+submit it as instructed at the end of this document.
+
+Assessment Tasks
+To help students tailor this unit to achieve the outcomes they are after, SIT112 uses a teaching approach called
+Constructive Alignment, where knowledge is constructed in the mind of the students by actively performing
+the required tasks. In this unit, Constructive Alignment is supported by a software tool called OnTrack, which
+facilitates formative learning via a task-oriented portfolio assessment. OnTrack organizes learning activities
+across tasks structured around grade outcomes: Pass, Credit, Distinction, and High Distinction. The graded
+tasks, therefore, fall into the categories listed in Table 1.
+Table 1. Task types and their definitions.
+Task Type
+Pass
+
+Definition
+• To achieve the minimum acceptable standard for this unit. To complete the Pass tasks,
+students should be able to comprehend and execute the solutions implemented in Python and
+write code for basic problems with guidance.
+
+e.g., Task P1
+
+Credit
+
+• Students will apply what they have learnt in the pass tasks with less guidance. To complete the
+Credit tasks, the students should be able to comprehend and execute the solutions implemented
+in Python and write code for basic problems with limited guidance.
+
+e.g., Task C1
+Distinction
+
+• Students will apply their advanced knowledge to design and build solutions to a real-world
+scenario. To complete the Distinction tasks, students should be able to comprehend and execute
+the solutions implemented in Python and write code for moderately complex problems,
+independently.
+
+e.g., Task D1
+
+High Distinction
+e.g., Task HD1
+
+• Students will extend their understanding to demonstrate greater technical ability in developing
+more complex solutions to a real-world scenario. To complete the High Distinction tasks,
+Students should be able to comprehend and execute the solutions implemented in Python and
+write code for complex problems, independently.
+
+Assessment Process
+1. Set a Target Grade
+The students need to select the grade they are aiming to achieve – this decision may be based on prior
+experience and skills in the domain (e.g., programming skills), attitude towards the topic, time commitment,
+or the career objective. This selection allows the students to scaffold their own learning. For the best outcome,
+it is recommended that the students seriously and honestly consider their capabilities and adjust their target
+grades accordingly. The target grades and their requirements are listed in Table 2.
+Table 2. Target grades and their requirements.
+Target
+Grade
+
+Minimum Requirements
+
+Pass
+
+• All the Pass tasks are completed.
+• Failure to complete any of the Pass tasks will result in a Fail grade.
+
+Credit
+
+• Minimum requirements for a Pass grade are met AND all Credit tasks are completed.
+
+Distinction
+
+• Minimum requirements for a Credit grade are met AND the Distention task are completed.
+• In addition, the student must create a video recording, presenting their completed task; they may be
+required to answer questions or make changes to their code.
+
+High
+Distinction
+
+• Minimum requirement for a Distinction grade are met AND all High Distention tasks are completed.
+• Interviews are required. The students might be asked questions about their submissions, and they
+may be required to complete small tasks during the interviews.
+
+1
+
+2. Complete and submit the tasks based on your target grade
+Knowledge and skills in this unit continuously build on those learnt the weeks before. Therefore, if you fall
+behind it becomes difficult to understand the subsequent contents; try to submit your tasks by 11 am of the
+due dates. If you miss a due date, you can still submit your task by the end of Week 12 (The Deadline).
+However, only submissions by 11 am of the due date will receive feedback (via OnTrack). Before completing
+any task, please read the instructions in the task description and task completion form; submit via OnTrack:
+https://ontrack.deakin.edu.au/.
+Table 3. Submission items required for different tasks.
+Task
+
+Submission Items
+
+Pass Tasks P1-P8
+
+•
+•
+
+P1: Sign and submit the assessment guideline via OnTrack.
+P2-P8: Submit the task completion report (PDF file) via OnTrack.
+
+Credit Tasks C1-C2
+
+•
+•
+
+Submit the task completion report (PDF file) via OnTrack.
+Submit the Jupyter Notebook (ipynb file) via OnTrack.
+
+Distinction Task D1
+
+•
+
+Submit the task completion report (PDF file) via OnTrack; a link to the
+video recording must be included in the task completion report.
+Submit the Jupyter Notebook (ipynb file) via OnTrack.
+
+•
+High Distinction Task HD1
+
+•
+•
+
+Submit the task completion report (PDF file) via OnTrack; a link to the
+video recording must be included in the task completion report.
+Submit the Jupyter Notebook (ipynb file) via OnTrack.
+
+3. Get your submission assessed
+All submissions will get assessed but only those submitted by 11 am of the due dates will receive feedback via
+OnTrack. Feedback will be provided as Complete, Discuss, Demonstrate, Fix and Resubmit, and Fail. You can
+still request feedback on your late submissions during the workshops. Please note the difference between the
+task due dates and the deadline; the deadline for all tasks is the end of Week 12. You must submit your final
+portfolio including all your completed tasks by the deadline.
+Table 4. Different types of feedback for the SIT112 tasks.
+Feedback
+Complete
+
+Meaning
+The submission has met the essential
+requirements of the task and is ready for
+inclusion in the portfolio.
+
+Required Action
+
+Discuss
+
+The tutor would like to discuss the
+submission with the student.
+
+• Respond to the tutor’s questions via OnTrack.
+
+Demonstrate
+
+The tutor would like the student to
+demonstrate the submission.
+
+• Meet with the tutor (online/on-campus)
+demonstrate your submission.
+
+Fix and
+Resubmit
+
+The submission needs to be improved or
+fixed.
+
+• Fix your submission and resubmit.
+
+Fail
+
+The submission has failed to meet the
+essential requirements of the task.
+
+• No further action is required.
+
+• No further action is required.
+
+to
+
+• Maximum of 2 resubmissions are allowed per task, but
+only the first resubmission will receive further
+feedback – only if it is received within 7 days of the
+initial feedback. The 2nd resubmission can be made
+anytime by the end of Week 12 (the Deadline) with no
+feedback.
+
+2
+
+Important notes:
+•
+
+SIT112 has zero tolerance for plagiarism, plagiarized submissions will be flagged as Fail and will be
+reported to the academic integrity committee for further investigation.
+
+•
+
+You are not allowed to make more than 3 submissions per task (original submission plus a maximum
+of 2 resubmissions). If you mistakenly exceeded this limit, please contact your tutor; they will help
+you fix the issue.
+
+•
+
+Workshops are the primary venue for you to get help on the tasks. The tutors will walk you through
+the tasks and help you complete them, depending on the level of support those tasks need. Solutions
+to the Pass tasks will be discussed in the workshops. Also, assistance/guidance will be provided
+towards completion of the Credit tasks. Although the Distinction and High Distinction tasks are to be
+completed independently, the tutors can still give you hints and tell you if you are on the right track.
+
+•
+
+Please avoid emailing code or the screenshots of your code to the teaching team outside workshop
+hours; instead, demonstrate your solutions (code) to the tutors during the workshops. The tutors can
+help you fix your code in a one-to-one discussion. They can also show you how to use external
+resources (e.g., ChatGPT) to fix your code while improving your programming/problem solving skills.
+
+•
+
+In this unit, we encourage you to use ChatGPT when appropriate. The tutors will help you navigate
+your way through this new world of AI in education to have an enjoyable learning experience!
+
+Submission of this task
+Having read the above discussion, this task requires you to complete the following form and submit it to
+OnTrack. Once submitted, your tutor will initiate an Intelligent Discussion with you which you will need to
+provide a response. This discussion will only be asking you to introduce yourself to the tutor. If this task is not
+completed, we will not be accepting any future task submissions.
+Student ID: 226100103
+Name: Jahan Garg
+ Tick to indicate you have read this task sheet, asked your tutor
+anything you need clarified, and that you understand what you
+need to do to complete this unit.
+Signed:
+Date: 20-07-2026
+
+3
+
+
