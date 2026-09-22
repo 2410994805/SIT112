@@ -1,0 +1,380 @@
+Deakin University
+Introduction To Data Science And Artificial Intelligence
+OnTrack Submission
+
+Task P2
+
+Submitted By:
+Jahan Garg
+s226100103
+2026/08/11 16:10
+
+Tutor:
+Fatemeh Ansarizadeh
+
+August 11, 2026
+
+Produced by OnTrack
+
+SIT112 - Introduction To Data Science And Artificial Intelligence
+
+SIT112 - TASK COMPLETION REPORT
+Important note 1: Please do not include Python code in this report. It would be acceptable, though, to make brief
+references to function names or different parts of the task’s notebook when needed.
+Important note 2: Please do not leave any response field empty; if not applicable, enter NA.
+
+1. TASK SUMMARY
+TASK NAME (ABBREVIATION)
+
+YOUR NAME (STUDENT ID)
+
+YOUR DEAKIN EMAIL
+
+Pass Task P2
+
+Jahan Garg (226100103)
+
+s226100103@deakin.edu.au
+
+2. TASK DESCRIPTION
+ITEM
+
+RESPONSE
+
+What was the objective(s) of the task?
+
+The objective of this task was to apply core pandas concepts, covered
+in the Week 2 lecture on Essentials for Data Analysis, to a real-world
+dataset, in order to read, examine, transform, and analyse structured
+tabular data, and to draw meaningful conclusions from grouped and
+aggregated results.
+
+What kind of data did you work with?
+
+The task involved working with a single CSV file, avocado.csv, sourced
+from the Kaggle Avocado Prices dataset, containing 18,249 records of
+historical avocado prices and sales volumes across 54 U.S. regions
+between 2015 and 2018. The dataset included fields such as Date,
+AveragePrice, Total Volume, PLU-coded sales volumes (4046, 4225,
+4770), bag size categories (Total, Small, Large, and XLarge Bags),
+avocado type (conventional or organic), year, and region.
+
+Briefly describe the data science task you
+worked on.
+
+The data science task followed a structured pipeline: reading the CSV
+file into a DataFrame using read_csv(), examining its structure and
+quality with info() and nunique(), and accessing subsets of the data
+through bracket notation, dot notation, and the loc[] accessor,
+consistent with the techniques demonstrated in the Week 2 lecture
+notebook. A new column, Estimated Revenue, was derived by
+multiplying Total Volume and AveragePrice. The data was then
+grouped by region and type to compute average prices, reshaped using
+pivot() to compare prices across regions in wide format, and grouped
+by type and year to calculate the standard deviation of Total Bags sold,
+in order to assess the consistency of sales volumes over time. Bar plots
+were used to visualise summary statistics of Total Volume by year.
+
+3. TECHNICAL SKILLS
+ITEM
+
+RESPONSE
+
+What technical skills did you use during
+the task?
+
+During this task, I applied a range of pandas techniques, including
+reading data from a CSV file using read_csv(), inspecting data structure
+and quality with info() and nunique(), and accessing data through
+bracket notation, dot notation, and the loc[] accessor. I also performed
+column arithmetic to create a new Estimated Revenue column, used
+groupby() combined with mean() and std() to summarise data by
+region, type, and year, reshaped grouped data using pivot() for
+regional comparison, and created bar plots using plot.bar() to visualise
+summary statistics.
+
+List any challenges or obstacles you faced
+while working on the task and how you
+overcame them.
+
+I did not encounter major technical obstacles while completing this
+task, as I had prior exposure to Jupyter Notebook and the pandas
+library through my Data Capture Technologies unit. Where I was
+uncertain about exact syntax, I referred to Week 2 unit site material
+and relevant external sources to confirm correct usage. All cells
+executed without errors, and I cross-verified my results against the
+provided P2-Solution notebook after completing my own attempt, to
+check that my logic and outputs aligned with the expected approach
+
+4. DATA CLEANING AND PREPARATION (ENTER NA WHEN NOT APPLICABLE)
+ITEM
+
+RESPONSE
+
+What steps did you take to clean and
+prepare the data?
+
+As the Unnamed: 0 column and the three PLU code columns (4046,
+4225, 4770) were identified in the task instructions as irrelevant to
+this analysis, I did not remove them from the DataFrame but simply
+excluded them from all subsequent selections, groupings, and
+calculations. Data cleaning in this task therefore focused on verifying
+data quality using info() and nunique(), which confirmed that all
+18,249 records were complete with no missing values across any of
+the 14 columns.
+
+Did you encounter any issues with the
+data during this process? How did you
+address these issues with the data?
+
+No missing values or data type issues were identified during this
+process, as confirmed by info(), which reported 18,249 non-null
+entries for every column. However, care was needed when
+interpreting the region column, since some regions represented
+aggregated totals (for example, Total US) that overlap with the other
+individual regional entries. As the task instructions specified that
+overlapping regions should not be accounted for separately, this was
+noted but not adjusted within the scope of this task.
+
+Page 2
+
+5. DATA ANALYSIS (ENTER NA WHEN NOT APPLICABLE)
+ITEM
+
+RESPONSE
+
+How did you analyse the data?
+
+The data was analysed primarily through grouping and aggregation. I
+used groupby() on region and type to calculate average prices, then
+applied pivot() to reshape this grouped data into a wide format for
+direct comparison across regions. Separately, I grouped the data by
+type and year to calculate the standard deviation of Total Bags sold,
+in order to assess how sales volume consistency changed over the
+four years.
+
+Did you use any visualisation techniques to
+better understand the data?
+
+Yes, I created a bar plot using plot.bar() to visualise the mean,
+median, and standard deviation of Total Volume grouped by year,
+which helped illustrate how sales volume and its variability changed
+from 2015 to 2018.
+
+What insights did you gain from this
+analysis?
+
+This analysis revealed several notable patterns. Organic avocados
+were consistently priced higher than conventional ones, averaging
+1.65 compared to 1.16, reflecting a typical premium seen in organic
+produce markets. Regional variation was also evident, with Houston
+recording the lowest average organic price (1.27) among all 54
+regions, lower than I initially expected given that organic produce is
+generally more uniformly priced across markets. Finally, the
+standard deviation of Total Bags sold increased every year from
+2015 to 2018 for both avocado types, rising from roughly 7.5×105 to
+2.0×106 for conventional and from 2.6×104 to 1.4×105 for organic.
+This indicates that avocado sales volumes became progressively less
+consistent over time rather than stabilising as the market matured.
+
+6. BASIC REQUIREMENTS FOR THE TASK
+ITEM
+
+RESPONSE (YES/NO)
+
+Are you confident in executing the Python code in this task and explaining the output?
+
+Yes
+
+Are you confident in explaining what each line of code does and how it contributes to the
+solution(s)?
+
+Yes
+
+Are you confident in rewriting or modifying the code after completing this task?
+
+Yes
+
+•
+•
+
+For pass tasks: with guidance, no time limit.
+For credit tasks: with limited guidance, no time limit.
+
+•
+•
+
+For distinction tasks: independently, no time limit.
+
+Page 3
+
+For high distinction tasks: independently, in a limited time.
+
+7. CODE ATTACHMENT (NOT APPLICABLE TO THE PASS TASKS – ENTER NA)
+ITEM
+
+RESPONSE (YES/NO/NA)
+
+Have you attached the notebook file that contains your
+solutions (Python code) for this task?
+
+NA
+
+Have you executed all the cells in your attached notebook
+and ensured there is no error?
+
+NA
+
+Please note your submission will not be flagged as
+complete if your attached notebook contains any error.
+
+8. VIDEO ATTACHMENT (NOT APPLICABLE TO THE PASS/CREDIT TASKS: NA)
+ITEM
+
+RESPONSE (THE VIDEO LINK/NA)
+
+Provide the link to the video recording that presents your
+completed task. This is only for Distinction and High
+Distinction tasks. Enter NA for Pass/Credit tasks.
+
+NA
+
+9. AI REFLECTION STATEMENT
+How did you use GenAI to support your learning and
+completion of this task?
+In your response, address the following points:
+a. What GenAI tool(s) did you use, and which parts of the
+task did they assist with?
+b. How did GenAI support your understanding,
+confidence, efficiency, or quality of work?
+c. What challenges, limitations, or inaccuracies did you
+encounter, and how did you check or improve the GenAI
+output?
+d. How did you ensure that the final submission reflected
+your own understanding, decisions, and responsible use
+of GenAI?
+
+Page 4
+
+a. I used Perplexity (Claude Sonnet) primarily to help
+break the task down into smaller, manageable parts
+and to clarify what each of the 14 questions was
+actually asking me to do. This helped me plan my
+approach to the notebook in a structured way before I
+started coding.
+b. The tool helped me search for relevant concepts and
+pandas syntax more precisely, since I could ask
+targeted questions about specific methods like
+groupby(), pivot(), and standard deviation
+interpretation. This improved my efficiency in locating
+the right approach, though the actual coding,
+execution, and interpretation of results were carried
+out independently by me.
+c. When I asked the AI tool to help draft parts of this
+report directly, it declined to generate personal
+reflections, insights, or analysis on my behalf,
+explaining that these sections needed to reflect my
+own understanding and decisions rather than AIgenerated content. This meant I had to provide my
+own actual results and interpretations from my
+
+ITEM
+
+RESPONSE (THE VIDEO LINK/NA)
+notebook, which the tool then only helped me
+structure and phrase clearly. I verified all factual
+claims and figures myself against my own executed
+notebook output before finalising any wording.
+d. I ensured this by running and verifying every part of
+my notebook independently first, cross-checking my
+results against the provided P2-Solution notebook,
+and only using AI assistance for task breakdown,
+syntax clarification, and language refinement rather
+than for generating my analysis or conclusions. All
+insights and interpretations described in this report
+are based on my own review of the actual output I
+produced.
+
+10. ETHICAL ASPECTS OF AI AND DATA SCIENCE
+Choose an AI or Data Science application (e.g., ChatGPT,
+facial recognition, recommendation systems, healthcare
+AI, autonomous vehicles, or social media algorithms) and
+discuss:
+1.
+
+One ethical concern associated with its use.
+
+2.
+
+The potential impact of this concern on
+individuals or society.
+
+3.
+
+One strategy that could reduce or address the
+ethical risk.
+
+1. A significant ethical concern with recommendation
+systems is algorithmic bias leading to filter bubbles,
+where collaborative filtering algorithms
+disproportionately promote already-popular items
+while under-representing less popular or minorityrelevant content, a phenomenon known as
+popularity bias.
+2. This narrows the diversity of information and
+products users are exposed to over time, reinforcing
+existing preferences rather than introducing new
+perspectives, and can further marginalise already
+underrepresented groups, since data points at the
+margins of the distribution often correspond to
+minority users. At a societal level, this contributes to
+echo chambers, where users are consistently
+exposed to content aligning with their existing
+viewpoints, reducing exposure to diverse opinions
+and potentially reinforcing polarisation.
+3. One effective mitigation strategy is diversity-aware
+recommendation design, where algorithms are
+deliberately adjusted to incorporate diversity
+metrics alongside accuracy, ensuring that less
+popular or minority-relevant items are still surfaced
+to users. Research has shown that diversified
+recommendation strategies can measurably reduce
+filter bubble effects compared to non-diversified
+approaches. This can be complemented by
+transparency mechanisms, such as those
+
+Page 5
+
+ITEM
+
+RESPONSE (THE VIDEO LINK/NA)
+recommended by IEEE, which call for AI systems to
+make it possible to discover how and why a
+particular recommendation was generated, enabling
+users and auditors to identify and challenge biased
+outcomes.
+
+11. ACKNOWLEDGEMENT
+BY SUBMITTING THIS REPORT, I ACKNOWLEDGE THAT:
+•
+•
+•
+•
+•
+•
+
+MY RESPONSES ARE ACCURATE AND ARE MY OWN WORDS.
+I HAVE MET ALL THE BASIC REQUIREMENTS OF THE TASK (LISTED IN SECTION 6).
+I HAVE READ AND FULLY UNDERSTOOD THE ASSESSMENT GUIDELINES OF THE UNIT.
+THIS REPORT DOES NOT EXCEED 3 PAGES.
+THIS REPORT DOES NOT INCLUDE CODE EXCEPT BRIEF REFERENCES TO FUNCTION NAMES OR DIFFERENT PARTS
+OF THE TASK’S NOTEBOOK.
+MY SUBMISSION DOES NOT CONTAIN ANY CREDENTIALS (E.G., PASSWORD, API KEY, ETC) OR PERSONAL
+INFORMATION.
+
+IMPORTANT NOTE 3: IF YOU HAVE ANSWERED NO TO ANY OF THE QUESTIONS IN SECTION 6, PLEASE RECONSIDER
+SUBMITTING YOUR REPORT; ASK FOR HELP FROM YOUR TUTOR.
+
+ADD YOUR NAME AND SIGNATURE HERE: JAHAN GARG
+
+Page 6
+
+
