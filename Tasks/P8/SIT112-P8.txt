@@ -1,0 +1,235 @@
+SIT112
+
+SIT112 - TASK COMPLETION REPORT
+
+Important note 1: Please do not include Python code in this report. It would be acceptable though to make brief
+references to function names or different parts of the task’s notebook when needed.
+Important note 2: Please do not leave any response field empty; if not applicable, enter NA.
+
+1. TASK SUMMARY
+
+TASK NAME (ABBREVIATION)
+
+YOUR NAME (STUDENT ID)
+
+YOUR DEAKIN EMAIL
+
+Pass Task P0
+
+Davoud Mougouei (student ID)
+
+Davoud.Mougouei@deakin.edu.au
+
+2. TASK DESCRIPTION
+
+ITEM
+
+RESPONSE
+
+What was the objective(s) of the task?
+
+The objective of this task was to analyze the relationship between the
+amount of rainfall and the number of mosquito bites in a certain
+region.
+
+What kind of data did you work with?
+
+The task involved analyzing two datasets: one containing daily rainfall
+data for the region for the past year, and the other containing daily
+mosquito bite count for the same period.
+
+Briefly describe the data science task you
+worked on.
+
+3. TECHNICAL SKILLS
+
+The data was cleaned, merged, and prepared for analysis, and a scatter
+plot was created to visualize the relationship between rainfall and
+mosquito bites. Finally, the correlation coefficient between the two
+variables was calculated to determine the strength of the relationship.
+
+ITEM
+
+RESPONSE
+
+What technical skills did you use during
+the task?
+
+We used several technical skills during the task, including data
+cleaning, merging datasets, data preparation (converting column
+types), data analysis (calculating correlation coefficient), and data
+visualization (creating a scatter plot).
+
+list any challenges or obstacles you faced
+while working on the task and how you
+overcame them.
+
+One challenge we faced was dealing with missing values in the
+datasets. We overcame this challenge by dropping any rows with
+missing values using the dropna() function.
+
+4. DATA CLEANING AND PREPARATION (ENTER NA WHEN NOT APPLICABLE)
+ITEM
+
+RESPONSE
+
+What steps did you take to clean and
+prepare the data?
+
+We dropped any rows with missing values using the dropna()
+function, and then converted the Rainfall (mm) column to float type
+and the Mosquito Bites column to integer type using the astype()
+function.
+
+Did you encounter any issues with the
+data during this process? How did you
+address these issues with the data?
+
+We encountered missing values in the datasets, which we addressed
+by dropping any rows with missing values using the dropna()
+function.
+
+ITEM
+
+RESPONSE
+
+How did you analyze the data?
+
+We analyzed the data by calculating the correlation coefficient
+between the Rainfall (mm) and Mosquito Bites columns using the
+corr() function from pandas.
+
+5. DATA ANALYSIS (ENTER NA WHEN NOT APPLICABLE)
+
+Did you use any visualization techniques to
+better understand the data?
+What insights did you gain from this
+analysis?
+
+Yes, we used a scatter plot to visualize the relationship between
+rainfall and mosquito bites.
+
+From the analysis, we found that there was a moderate positive
+correlation between rainfall and mosquito bites, indicating that as
+rainfall increased, so did the number of mosquito bites. This insight
+can be useful for public health officials and policymakers in
+designing interventions to reduce the spread of mosquito-borne
+diseases.
+
+6. BASIC REQUIREMENTS FOR THE TASK
+ITEM
+
+RESPONSE (YES/NO)
+
+Are you confident to execute the Python code in this task and explain the output?
+
+Yes
+
+Are you confident to rewrite or modify the code after completing this task?
+
+Yes
+
+Are you confident to explain what each line of code does and how it contributes to the
+solution(s)?
+•
+•
+
+•
+•
+
+Page 2
+
+For pass tasks: with guidance, no time limit.
+For credit tasks: with limited guidance, no time limit.
+For distinction tasks: independently, no time limit.
+
+For high distinction tasks: independently, in a limited time.
+
+Yes
+
+7. CODE ATTACHMENT (NOT APPLICABLE TO THE PASS TASKS – ENETER NA)
+ITEM
+
+RESPONSE (YES/NO/NA)
+
+Have you attached the notebook file that contains your
+solutions (Python code) for this task?
+
+NA
+
+Have you executed all the cells in your attached notebook
+and ensured there is no error?
+
+NA
+
+Please note your submission will not be flagged as
+complete if your attached notebook contains any error.
+
+8. VIDEO ATTACHMENT (NOT APPLICABLE TO THE PASS/CREDIT TASKS: NA)
+ITEM
+
+RESPONSE
+
+Provide the link to the video recording that presents your completed task. This is only for
+Distinction and High Distinction tasks. Enter NA for Pass/Credit tasks.
+
+NA
+
+9. AI REFLECTION STATEMENT
+How did you use GenAI to support your learning and completion of this task?
+In your response, address the following points:
+
+a. What GenAI tool(s) did you use, and which parts of the task did they assist with?
+
+b. How did GenAI support your understanding, confidence, efficiency, or quality of work?
+
+c. What challenges, limitations, or inaccuracies did you encounter, and how did you check or
+improve the GenAI output?
+
+d. How did you ensure that the final submission reflected your own understanding, decisions, and
+responsible use of GenAI?
+
+10. ETHICAL ASPECTS OF AI AND DATA SCIENCE
+Choose an AI or Data Science application (e.g., ChatGPT, facial recognition, recommendation
+systems, healthcare AI, autonomous vehicles, or social media algorithms) and discuss:
+1.
+
+One ethical concern associated with its use.
+
+3.
+
+One strategy that could reduce or address the ethical risk.
+
+2.
+
+The potential impact of this concern on individuals or society.
+
+11. ACKNOWLEDGEMENT
+
+Page 3
+
+BY SUBMITTING THIS REPORT, I ACKNOWLEDGE THAT:
+•
+•
+•
+•
+•
+•
+
+MY RESPONSES ARE ACCURATE AND ARE MY OWN WORDS.
+I HAVE MET ALL THE BASIC REQUIREMENTS OF THE TASK (LISTED IN SECTION 6).
+I HAVE READ AND FULLY UNDERSTOOD THE ASSESSMENT GUIDELINE OF THE UNIT.
+THIS REPORT DOES NOT EXCEED 3 PAGES.
+THIS REPORT DOES NOT INCLUDE CODE EXCEPT BRIEF REFERENCES TO FUNCTION NAMES OR DIFFERENT PARTS
+OF THE TASK’S NOTEBOOK.
+MY SUBMISSION DOES NOT CONTAIN ANY CREDENTIALS (E.G., PASSWORD, API KEY, ETC) OR PERSONAL
+INFORMAIOTN.
+
+IMPORTANT NOTE 3: IF YOU HAVE ANSWERED NO TO ANY OF THE QUESTIONS IN SECTIONS 6, PLEASE RECONSIDER
+SUBMITTING YOUR REPORT; ASK HELP FROM YOUR TUTOR.
+
+ADD YOUR NAME AND SIGNATURE HERE: DAVOUD MOUGOUEI
+
+Page 4
+
+
